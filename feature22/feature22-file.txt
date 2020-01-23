@@ -1,0 +1,3 @@
+some text for commit A
+
+some text for commit B
